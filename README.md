@@ -1,10 +1,5 @@
-# Portfolio Premium - Cristian Martinez
+# Portfolio - Cristian Martinez
 
-Landing profesional para vender servicios como desarrollador Full Stack.
+Landing profesional para servicios desarrollador Full Stack.
 
-## Archivos
-
-- index.html
-- styles.css
-- script.js
 
